@@ -1,0 +1,4 @@
+{"subject_type": "Pathogenesis", "predicate": "Pathogenesis_Disease", "object_type": "Disease"}
+{"subject_type": "ADE", "predicate": "ADE_Drug", "object_type": "Drug"}
+{"subject_type": "Symptom", "predicate": "Symptom_Disease", "object_type": "Disease"}
+{"subject_type": "Drug", "predicate": "Drug_Disease", "object_type": "Disease"}
